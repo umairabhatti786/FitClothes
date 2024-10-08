@@ -1,0 +1,25 @@
+export const images = {
+  logo: require('../images/logo.png'),
+  book1: require('../images/book1.png'),
+  books_sale: require('../images/books_sale.jpeg'),
+  add_unfill: require('../icons/add_unfill.png'),
+  search: require('../icons/search.png'),
+  bell: require('../icons/bell.png'),
+  close: require('../icons/close.png'),
+  drawer: require('../icons/drawer.png'),
+  fill_add: require('../icons/fill_add.png'),
+  fill_box: require('../icons/fill_box.png'),
+  fill_cart: require('../icons/fill_cart.png'),
+  fill_heart: require('../icons/fill_heart.png'),
+  fill_home: require('../icons/fill_home.png'),
+  filter: require('../icons/filter.png'),
+  unfill_box: require('../icons/unfill_box.png'),
+  unfill_cart : require('../icons/unfill_cart.png'),
+  unfill_heart: require('../icons/unfill_heart.png'),
+  unfill_home: require('../icons/unfill_home.png'),
+  right_arrow: require('../icons/right_arrow.png'),
+  left_arrow: require('../icons/left_arrow.png'),
+  share: require('../icons/share.png'),
+
+
+};
